@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "pack_format": 32,
+    "description": "A minimalistic Minecraft texture pack.",
+    "supported_formats": {
+      "min_inclusive": 30,
+      "max_inclusive": 999
+    }
+  }
+}
